@@ -4,19 +4,10 @@ In this study, we reproduce the works created in the paper named Unifying Vision
 
 In this paper, 2 different models are presented that can perform different tasks on a single model. These are named VL-T5 and VL-BART. There are very minor architectural differences between the two. Our aim in this study is to set up experiments to prove that the model presented by the authors can deliver what they promise.
 For this purpose, we create 5 different experiments.
-
-https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQABiasDetection.ipynb -> Bias detection experiement
-
-https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQAValid.ipynb -> Testing model experiment
-
-https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQAValidError.ipynb -> Gender discrimination error experiment
-
-https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/Reproducible_NLVR.ipynb -> Reproduciblity of NLVR task experiment
-
-https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/Reproducible_VQA%20.ipynb -> Reproduciblity of VQA task experiment
-
-
-
-
-
-
+<p>
+- VQAValid.ipynb: Experiment for custom data to test that the existing model can perform the VQA task.
+- VQAValidError.ipynb: Experiment for showing the model not valid vqa task if image contains both woman and mans
+- VQABiasDetection.ipynb: Experiment for racial bias detection
+- Reproducible_VQA.ipynb:Experiment for reproducing VQA task result
+- Reproducible_NLVR.ipynb: Experiment for reproducing NLVR task result
+ </p>
