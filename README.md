@@ -6,9 +6,13 @@ In this paper, 2 different models are presented that can perform different tasks
 For this purpose, we create 5 different experiments.
 
 https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQABiasDetection.ipynb -> Bias detection experiement
+
 https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQAValid.ipynb -> Testing model experiment
+
 https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/VQAValidError.ipynb -> Gender discrimination error experiment
+
 https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/Reproducible_NLVR.ipynb -> Reproduciblity of NLVR task experiment
+
 https://github.com/ilknuraktemur/Unifying-Vision-and-Language-Tasks-via-Text-Generation/blob/main/Reproducible_VQA%20.ipynb -> Reproduciblity of VQA task experiment
 
 
